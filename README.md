@@ -31,9 +31,9 @@ its the practice of making websites usable by as many people as possible
 3. How would you explain the concept of a variable to someone new to programming?
 a container that stores data
 4. What is the purpose of using functions in code?
-its purpose is reusability
+its purpose is reusability, enables programmers to break down or decompose a problem into smaller chunks
 5. How do you access a key inside of an object inside of an array?
-you can use dot notation or bracket notation
+object.keys()
 
 You are expected to be able to answer questions in these areas. Your responses contribute to your Sprint Challenge grade. 
 
